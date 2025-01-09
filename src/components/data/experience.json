@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "role": "Frontend Developer",
+      "organisation": "Event DTL",
+      "startDate": "July, 2024",
+      "endDate": "Present",
+      "location": "FC Road, Pune ",
+      "experiences": [
+        "Developed responsive and user-friendly UI components using React and Next.js",
+       "focusing on clean design, optimized performance, and seamless user experience."
+      ],
+      "imageSrc": "Company/google.png"
+    }
+  ]
