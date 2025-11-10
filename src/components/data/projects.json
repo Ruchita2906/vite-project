@@ -4,7 +4,6 @@
     "title": "WiShipping",
     "imageSrc": "public/assets/hero/flipcart.webp",
     "description": "Developed a responsive e-commerce platform using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Redux for state management.",
-    "tech": "React.js, Tailwind CSS, AOS Animation, Framer Motion",
     "demo": "https://www.example.com",
  
     "source": "https://github.com/your-repo"
@@ -16,7 +15,7 @@
     "description": "A Notion-inspired SaaS app built with Next.js 13, Tailwind CSS, Supabase, and Socket.io. Cypress offers folder & file management, real-time collaboration, and a scalable cloud backend — making it a powerful tool for teams to organize, edit, and manage content live.",
     "imageSrc": "public/assets/hero/cypress.webp",
     "demo": "https://your-cypress-demo-link.com",
-    "source": "https://github.com/your-cypress-repo"
+    "source": "https://github.com/your-cypress-repo s"
   },
 
   {
@@ -25,7 +24,7 @@
     "imageSrc": "public/assets/hero/doctor apponitment.png",
     "description": "Created appointment booking system using React for the frontend, implementing user authentication.",
     "demo": "https://dbs-ebon.vercel.app",
-    "source": "https://github.com/Ruchita2906/DBS"
+    "source": "https://github.com/appointment-booking"
   },
 
   {
@@ -34,6 +33,6 @@
     "imageSrc": "public/assets/hero/cofee shop.jpg",
     "description": "Developed a modern responsive coffee shop website using React and Tailwind, featuring animated sections.",
     "demo": "https://cafe-coffee-day-s8g8.vercel.app/",
-    "source": "https://github.com/Ruchita2906/cafe-coffee-day.git"
+    "source": "https://github.com/cafe-coffee-day"
   }
-]
+] 
