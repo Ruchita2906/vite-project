@@ -1,32 +1,39 @@
 [
-    {
-      "key": 1,
-      "title": "Wishipping",
-      "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-      "description": "This is a project made with complete React js."
-    },
-    {
-      "key": 2,
-      "title": "MERN Blogging",
-      "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-      "description": "This is a project made with complete React js.",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "key": 3,
-      "title": "React Recipe",
-      "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-      "description": "This is a project made with complete React js.",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "key": 4,
-      "title": "React Firebase App",
-      "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-      "description": "This is a project made with complete React js.",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    }
-  ]
+  {
+    "id": 1,
+    "title": "WiShipping",
+    "imageSrc": "public/assets/hero/flipcart.webp",
+    "description": "Developed a responsive e-commerce platform using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Redux for state management.",
+    "tech": "React.js, Tailwind CSS, AOS Animation, Framer Motion",
+    "demo": "https://www.example.com",
+ 
+    "source": "https://github.com/your-repo"
+  },
+
+  {
+    "id": 2,
+    "title": "Cypress — Ultimate SaaS Workspace",
+    "description": "A Notion-inspired SaaS app built with Next.js 13, Tailwind CSS, Supabase, and Socket.io. Cypress offers folder & file management, real-time collaboration, and a scalable cloud backend — making it a powerful tool for teams to organize, edit, and manage content live.",
+    "imageSrc": "public/assets/hero/cypress.webp",
+    "demo": "https://your-cypress-demo-link.com",
+    "source": "https://github.com/your-cypress-repo"
+  },
+
+  {
+    "id": 3,
+    "title": "Appointment Booking System",
+    "imageSrc": "public/assets/hero/doctor apponitment.png",
+    "description": "Created appointment booking system using React for the frontend, implementing user authentication.",
+    "demo": "https://dbs-ebon.vercel.app",
+    "source": "https://github.com/Ruchita2906/DBS"
+  },
+
+  {
+    "id": 4,
+    "title": "Cafe Coffee Day",
+    "imageSrc": "public/assets/hero/cofee shop.jpg",
+    "description": "Developed a modern responsive coffee shop website using React and Tailwind, featuring animated sections.",
+    "demo": "https://cafe-coffee-day-s8g8.vercel.app/",
+    "source": "https://github.com/Ruchita2906/cafe-coffee-day.git"
+  }
+]

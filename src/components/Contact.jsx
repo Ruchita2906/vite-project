@@ -27,11 +27,7 @@ const Contact = () => {
           <a href="https://www.github.com" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
-          <a
-            href="mailto:ruchitachaudhari06@gmail.com"
-            target="_blank"
-            className="items"
-          >
+          <a href="mailto:ruchitachaudhari06@gmail.com" className="items">
             <SiGmail className="icons" />
           </a>
         </div>

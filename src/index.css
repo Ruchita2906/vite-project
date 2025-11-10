@@ -179,6 +179,8 @@ body, html {
   }
 }
 
+
+
 /* Media Query for Smaller Screens (iOS) */
 @media (max-width: 768px) {
   .home-container {

@@ -15,7 +15,7 @@ const Navbar = () => {
         data-aos-duration="1000"
       >
         <div className="left">
-          <h1> Portfolio</h1></div>
+          <h1> Portfolio    </h1></div>
         
         <div className={`right ${menuOpen ? "show" : ""}`}>
           <a href="#home" className="nav_items">
