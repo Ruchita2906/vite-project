@@ -2,37 +2,34 @@
   {
     "id": 1,
     "title": "WiShipping",
-    "imageSrc": "public/assets/hero/flipcart.webp",
+    "imageSrc": "/assets/hero/flipcart.webp",
     "description": "Developed a responsive e-commerce platform using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Redux for state management.",
     "demo": "https://www.example.com",
- 
     "source": "https://github.com/your-repo"
   },
-
   {
     "id": 2,
     "title": "Cypress — Ultimate SaaS Workspace",
     "description": "A Notion-inspired SaaS app built with Next.js 13, Tailwind CSS, Supabase, and Socket.io. Cypress offers folder & file management, real-time collaboration, and a scalable cloud backend — making it a powerful tool for teams to organize, edit, and manage content live.",
-    "imageSrc": "public/assets/hero/cypress.webp",
+    "imageSrc": "/assets/hero/cypress.webp",
     "demo": "https://your-cypress-demo-link.com",
-    "source": "https://github.com/your-cypress-repo s"
+    "source": "https://github.com/your-cypress-repo"
   },
-
   {
     "id": 3,
     "title": "Appointment Booking System",
-    "imageSrc": "public/assets/hero/doctor apponitment.png",
+       "imageSrc": "/assets/hero/doctor.png",
+
     "description": "Created appointment booking system using React for the frontend, implementing user authentication.",
     "demo": "https://dbs-ebon.vercel.app",
     "source": "https://github.com/appointment-booking"
   },
-
   {
     "id": 4,
     "title": "Cafe Coffee Day",
-    "imageSrc": "public/assets/hero/cofee shop.jpg",
+    "imageSrc": "/assets/hero/cofee.jpg",
     "description": "Developed a modern responsive coffee shop website using React and Tailwind, featuring animated sections.",
     "demo": "https://cafe-coffee-day-s8g8.vercel.app/",
     "source": "https://github.com/cafe-coffee-day"
   }
-] 
+]
