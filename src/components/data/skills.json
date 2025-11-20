@@ -31,5 +31,9 @@
     {
       "title": "Figma",
       "imageSrc": "Skills/figma.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "Skills/aws services.png"
     }
   ]
